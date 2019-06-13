@@ -1,0 +1,12 @@
+C:\Users\Adam Buglass\Source\Repos\Library\src\Library.API\obj\Debug\netcoreapp2.0\Library.API.csprojAssemblyReference.cache
+C:\Users\Adam Buglass\Source\Repos\Library\src\Library.API\obj\Debug\netcoreapp2.0\Library.API.csproj.CoreCompileInputs.cache
+C:\Users\Adam Buglass\Source\Repos\Library\src\Library.API\obj\Debug\netcoreapp2.0\Library.API.AssemblyInfoInputs.cache
+C:\Users\Adam Buglass\Source\Repos\Library\src\Library.API\obj\Debug\netcoreapp2.0\Library.API.AssemblyInfo.cs
+C:\Users\Adam Buglass\Source\Repos\Library\src\Library.API\bin\Debug\netcoreapp2.0\Library.API.deps.json
+C:\Users\Adam Buglass\Source\Repos\Library\src\Library.API\bin\Debug\netcoreapp2.0\Library.API.runtimeconfig.json
+C:\Users\Adam Buglass\Source\Repos\Library\src\Library.API\bin\Debug\netcoreapp2.0\Library.API.runtimeconfig.dev.json
+C:\Users\Adam Buglass\Source\Repos\Library\src\Library.API\bin\Debug\netcoreapp2.0\Library.API.dll
+C:\Users\Adam Buglass\Source\Repos\Library\src\Library.API\bin\Debug\netcoreapp2.0\Library.API.pdb
+C:\Users\Adam Buglass\Source\Repos\Library\src\Library.API\obj\Debug\netcoreapp2.0\Library.API.dll
+C:\Users\Adam Buglass\Source\Repos\Library\src\Library.API\obj\Debug\netcoreapp2.0\Library.API.pdb
+C:\Users\Adam Buglass\Source\Repos\Library\src\Library.API\bin\Debug\netcoreapp2.0\nlog.config
